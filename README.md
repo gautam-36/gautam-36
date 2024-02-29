@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **MERN STACK , Data Structure**, Cyber Security**
+- 💬 Ask me about **MERN STACK , Data Structure, Cyber Security**
 
 - 📫 How to reach me **gautamkumarg660@gmail.com**
 
